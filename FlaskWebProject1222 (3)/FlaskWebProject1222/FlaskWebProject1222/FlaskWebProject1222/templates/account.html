@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>APIpay</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link type="image/x-icon" href="{{ url_for('static', filename='img/logo.png') }}" rel="shortcut icon">
+    <script src="https://cdn.jsdelivr.net/npm/vue@3.2.47/dist/vue.global.js"></script>
+    <script src="{{ url_for('static', filename='js/app.js') }}" defer></script>
+</head>
+<body>
+    <div id="app">
+        <header class="header">
+            <div class="logo">
+                <h1><a href="{{ url_for('index') }}">APIpay</a></h1> <h1><a href="{{ url_for('sandbox') }}">APISandBox</a></h1>
+            </div>
+            <nav>
+                {% if session['email'] %}
+                <p>{{ session['email'] }}</p>  <a href="{{ url_for('logout') }}">Выйти</a>
+                {% else %}
+                <a href="{{ url_for('login') }}">Вход</a> | <a href="{{ url_for('register') }}">Регистрация</a>
+                {% endif %}
+            </nav>
+        </header>
+        <main>
+            <h2>Доступные подписки</h2>
+
+            <table id="subscriptions-table">
+                <thead>
+                    <tr>
+                        <th>Подписки</th>
+                        <th>Срок действия</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </main>
+        <footer class="site-footer">
+            <div class="footer-container">
+                <div class="footer-logo">
+                    <img src="{{ url_for('static', filename='img/logo.png') }}" alt="Логотип проекта" class="footer-logo-image">
+                    <p>APIpay — платформа для интеграции API продуктов.<p>
+</div>
+                <div class="footer-links">
+                    <h3>Навигация</h3>
+                    <ul>
+                        <li><a href="#">О нас</a></li>
+                        <li><a href="#">Продукты API</a></li>
+                        <li><a href="#">Цены</a></li>
+                        <li><a href="#">Контакты</a></li>
+                    </ul>
+                </div>
+                <div class="footer-contact">
+                    <h3>Контакты</h3>
+                    <p>Email: support@apipay.com</p>
+                    <p>Телефон: +7 (800) 123-45-67</p>
+                    <p>Адрес: ул. Усова, 13в, Томск</p>
+                </div>
+                <div class="footer-social">
+                    <h3>Мы в соцсетях</h3>
+                    <ul class="social-links">
+                        <li>
+                            <a href="https://web.telegram.org/" target="_blank">
+                                <img src="{{ url_for('static', filename='img/tg.png') }}" alt="Telegram" class="social-icon">Telegram
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://m.vk.com/" target="_blank">
+                                <img src="{{ url_for('static', filename='img/vk.png') }}" alt="ВКонтакте" class="social-icon">ВКонтакте
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>© 2024 APIpay. Все права защищены.</p>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>

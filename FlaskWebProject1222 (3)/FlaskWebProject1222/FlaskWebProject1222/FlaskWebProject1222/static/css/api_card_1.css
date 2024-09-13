@@ -1,0 +1,239 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f8f8;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  flex: 1;
+}
+
+#app {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  background-color: #222;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+  align-items: center;
+  color: #fff;
+}
+
+.header a{
+  text-decoration: none;
+  color: #fff;
+}
+
+.logo h1 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+}
+
+nav a {
+  font-size: 16px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.api-name {
+  background-color: #222;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.api-title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.api-description {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.tariffs {
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.tariffs-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.tariff-card {
+  display: inline-block;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px;
+  text-align: left;
+  width: 250px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.tariff-card h2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.tariff-card h1 {
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.tariff-card p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+.tariff-price {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.tariff-price span {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.tariff-price small {
+  font-size: 14px;
+  color: #666;
+  display: block;
+}
+
+.tariff-card button {
+  background-color: #222;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.tariff-card button:hover {
+  background-color: #00baff;
+}
+
+.site-footer {
+  background-color: #222;
+  color: #fff;
+  padding: 40px 20px;
+  margin-top: 50px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.footer-logo {
+  flex: 1;
+  max-width: 300px;
+  text-align: center;
+}
+
+.footer-logo-image {
+  max-width: 150px;
+  margin-bottom: 10px;
+}
+
+.footer-links,
+.footer-contact,
+.footer-social {
+  flex: 1;
+  max-width: 250px;
+  margin-bottom: 20px;
+}
+
+.footer-links ul,
+.social-links {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links ul li,
+.social-links li {
+  margin-bottom: 10px;
+}
+
+.social-icon {
+  width: 20px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.footer-links a,
+.social-links a {
+  color: #fff;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  transition: color 0.3s ease;
+}
+
+.footer-links a:hover,
+.social-links a:hover {
+  color: #00baff;
+}
+
+.footer-links h3,
+.footer-contact h3,
+.footer-social h3 {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 30px;
+  border-top: 1px solid #444;
+  padding-top: 20px;
+}
+
+.download-button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.download-button {
+  padding: 10px 20px;
+  background-color: #007BFF;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.download-button:hover {
+  background-color: #0056b3;
+}

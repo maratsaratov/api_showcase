@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Оплата</title>
+    <link type="image/x-icon" href="{{ url_for('static', filename='img/logo.png') }}" rel="shortcut icon">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/payment.css') }}">
+</head>
+<body>
+    <div class="payment-container">
+        <div class="payment-header">
+            <h1 class="logo">APIpay</h1>
+            <div class="payment-amount">
+                <span>APIpay.ru</span>
+                <h2>3600 ₽</h2>
+            </div>
+        </div>
+        
+        <div class="payment-card">
+            <div class="card-option">
+                <div class="new-card">
+                    <span class="card-text">+ Новая карта</span>
+                </div>
+            </div>
+            <div class="card-inputs">
+                <div class="card-logos">
+                    <img src="assets/img/mastercard.png" alt="MasterCard">
+                    <img src="assets/img/visa.png" alt="Visa">
+                </div>
+                <input type="text" placeholder="Номер карты" class="card-number">
+                <div class="card-details">
+                    <input type="text" placeholder="ММ / ГГ" class="expiry-date">
+                    <input type="text" placeholder="CVC" class="cvc">
+                </div>
+            </div>
+        </div>
+
+        <div class="payment-footer">
+            <button class="pay-button">Оплатить</button>
+            <p class="terms">Нажимая на кнопку, вы соглашаетесь с <a href="#">условиями использования сервиса</a></p>
+        </div>
+    </div>
+</body>
+</html>

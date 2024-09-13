@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\templates\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\cabinet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\cabinet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\api_card_1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\api_card_1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\static\\js\\cards.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\static\\js\\cards.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|solutionrelative:FlaskWebProject1222\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_\u043F\u0430\u0432\u043F\u0430.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_\u043F\u0430\u0432\u043F\u0430.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_template.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_template.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_jopa.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_jopa.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\static\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\static\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\static\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\static\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\sandbox.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\templates\\sandbox.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_\u0443\u0446\u0430\u0443\u0439\u0446\u0443\u0430\u0432\u0446\u0430\u0432\u0446\u044B\u0432\u044B\u043C\u0430.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_\u0443\u0446\u0430\u0443\u0439\u0446\u0443\u0430\u0432\u0446\u0430\u0432\u0446\u044B\u0432\u044B\u043C\u0430.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\sandbox.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\sandbox.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DB8BC9D-998C-41BC-82A4-CFA4B15E55A3}|FlaskWebProject1222\\FlaskWebProject1222.pyproj|solutionrelative:FlaskWebProject1222\\FlaskWebProject1222\\templates\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cabinet.css",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\cabinet.css",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\cabinet.css",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\cabinet.css",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\cabinet.css",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-13T08:10:15.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "views.py",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\views.py",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\views.py",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\views.py",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\views.py",
+              "ViewState": "AgIAACoBAAAAAAAAAAAvwPAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-09-13T07:50:50.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "api_card_\u043F\u0430\u0432\u043F\u0430.html",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_\u043F\u0430\u0432\u043F\u0430.html",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_\u043F\u0430\u0432\u043F\u0430.html",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_\u043F\u0430\u0432\u043F\u0430.html",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_\u043F\u0430\u0432\u043F\u0430.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-13T06:44:30.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "api_card_jopa.html",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_jopa.html",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_jopa.html",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_jopa.html",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_jopa.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-13T06:37:52.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "api_card_\u0443\u0446\u0430\u0443\u0439\u0446\u0443\u0430\u0432\u0446\u0430\u0432\u0446\u044B\u0432\u044B\u043C\u0430.html",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_\u0443\u0446\u0430\u0443\u0439\u0446\u0443\u0430\u0432\u0446\u0430\u0432\u0446\u044B\u0432\u044B\u043C\u0430.html",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_\u0443\u0446\u0430\u0443\u0439\u0446\u0443\u0430\u0432\u0446\u0430\u0432\u0446\u044B\u0432\u044B\u043C\u0430.html",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_\u0443\u0446\u0430\u0443\u0439\u0446\u0443\u0430\u0432\u0446\u0430\u0432\u0446\u044B\u0432\u044B\u043C\u0430.html",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_\u0443\u0446\u0430\u0443\u0439\u0446\u0443\u0430\u0432\u0446\u0430\u0432\u0446\u044B\u0432\u044B\u043C\u0430.html",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-13T02:38:26.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "requirements.txt",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\requirements.txt",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\requirements.txt",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\requirements.txt",
+              "RelativeToolTip": "FlaskWebProject1222\\requirements.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-13T07:04:38.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\static\\js\\script.js",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\static\\js\\script.js",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\static\\js\\script.js",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\static\\js\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-13T06:07:22.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "api_card_5.html",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_5.html",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_5.html",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_5.html",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_5.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-13T04:53:14.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "api_card_4.html",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_4.html",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_4.html",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_4.html",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_4.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-13T05:08:48.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "api_card_3.html",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_3.html",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_3.html",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_3.html",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_3.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-13T05:08:36.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "api_card_2.html",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_2.html",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_2.html",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_2.html",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_2.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAD0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-13T05:07:40.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "api_card_1.html",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_1.html",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_1.html",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_1.html",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_1.html",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-13T05:07:03.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cards.js",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\static\\js\\cards.js",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\static\\js\\cards.js",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\static\\js\\cards.js",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\static\\js\\cards.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-13T02:58:22.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "__init__.py (FlaskWebProject1222)",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\__init__.py",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\__init__.py",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\__init__.py",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-09-13T02:55:10.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "api_card_template.html",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_template.html",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_template.html",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_template.html",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\api_card_template.html",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-13T02:41:28.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\static\\js\\app.js",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\static\\js\\app.js",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\static\\js\\app.js",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\static\\js\\app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-12T04:31:30.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\style.css",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\style.css",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\style.css",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\style.css",
+              "ViewState": "AgIAADUBAAAAAAAAAAAgwEgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-12T17:29:36.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "sandbox.css",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\sandbox.css",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\sandbox.css",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\sandbox.css",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\sandbox.css",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-12T15:57:00.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "sandbox.html",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\sandbox.html",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\sandbox.html",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\sandbox.html",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\sandbox.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-12T15:56:30.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\login.html",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\login.html",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\login.html",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-12T04:27:57.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "register.html",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\register.html",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\register.html",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\register.html",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\register.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-12T04:29:16.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\index.html",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\index.html",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\templates\\index.html",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\templates\\index.html",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-12T15:54:08.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "api_card_1.css",
+              "DocumentMoniker": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\api_card_1.css",
+              "RelativeDocumentMoniker": "FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\api_card_1.css",
+              "ToolTip": "C:\\Users\\Anohi\\source\\repos\\FlaskWebProject1222\\FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\api_card_1.css",
+              "RelativeToolTip": "FlaskWebProject1222\\FlaskWebProject1222\\static\\css\\api_card_1.css",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAwwO8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-12T04:31:57.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
